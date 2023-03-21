@@ -32,6 +32,6 @@
   </div>
 
    <h1>Thankyou, Happy Learning</h1>
-   <h1>Build Amazing Carrer With Devops<h1>
+   <h1>Build Amazing Devops Career<h1>
    <b>Sampath Hewage</b>
 </form>
